@@ -1,0 +1,139 @@
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Movies starting with letter: A
+ >> A Separation 8.3
+ >> Andhadhun 8.6
+Movies starting with letter: C
+ >> Casablanca 8.5
+ >> Children of Heaven 8.3
+Movies starting with letter: G
+ >> Gladiator 8.5
+ >> Goodfellas 8.7
+Movies starting with letter: L
+ >> Like Stars on Earth 8.4
+Movies starting with letter: O
+ >> Once Upon a Time in the West 8.5
+Movies starting with letter: S
+ >> Scarface 8.3
+ >> Schindler's List 8.9
+ >> Snatch 8.3
+ >> Star Wars: Episode IV - A New Hope 8.6
+Movies starting with letter: T
+ >> The Godfather: Part II 9
+ >> The Great Dictator 8.5
+ >> The Shining 8.4
+ >> The Silence of the Lambs 8.6
+Movies starting with letter: W
+ >> WALL-E 8.4
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+Movie not found.
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Goodbye!

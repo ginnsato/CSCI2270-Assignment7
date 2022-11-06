@@ -1,0 +1,89 @@
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+give the titleChar of the node:
+Pre-oder traversal after rotation:
+G A 1 B F I T R L O M S 
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Movies starting with letter: 1
+ >> 12 Angry Men 8.9
+Movies starting with letter: A
+ >> Alien 8.5
+Movies starting with letter: B
+ >> Back to the Future 8.5
+Movies starting with letter: F
+ >> Forrest Gump 8.8
+Movies starting with letter: G
+ >> Grave of the Fireflies 8.5
+Movies starting with letter: I
+ >> Inglourious Basterds 8.3
+Movies starting with letter: L
+ >> Life Is Beautiful 8.6
+Movies starting with letter: M
+ >> My Father and My Son 8.4
+Movies starting with letter: O
+ >> Oldboy 8.4
+Movies starting with letter: R
+ >> Raiders of the Lost Ark 8.5
+Movies starting with letter: S
+ >> Star Wars: Episode V - The Empire Strikes Back 8.8
+Movies starting with letter: T
+ >> The Lord of the Rings: The Two Towers 8.7
+ >> The Pianist 8.5
+ >> The Prestige 8.5
+ >> Toy Story 3 8.3
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+Movie not found.
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Movies starting with letter: 1
+ >> 12 Angry Men 8.9
+Movies starting with letter: B
+ >> Back to the Future 8.5
+Movies starting with letter: F
+ >> Forrest Gump 8.8
+Movies starting with letter: G
+ >> Grave of the Fireflies 8.5
+Movies starting with letter: I
+ >> Inglourious Basterds 8.3
+Movies starting with letter: L
+ >> Life Is Beautiful 8.6
+Movies starting with letter: M
+ >> My Father and My Son 8.4
+Movies starting with letter: O
+ >> Oldboy 8.4
+Movies starting with letter: R
+ >> Raiders of the Lost Ark 8.5
+Movies starting with letter: S
+ >> Star Wars: Episode V - The Empire Strikes Back 8.8
+Movies starting with letter: T
+ >> The Lord of the Rings: The Two Towers 8.7
+ >> The Pianist 8.5
+ >> The Prestige 8.5
+ >> Toy Story 3 8.3
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Goodbye!

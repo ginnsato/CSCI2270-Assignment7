@@ -1,0 +1,62 @@
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Movies starting with letter: C
+ >> Coco (I) 8.4
+Movies starting with letter: D
+ >> Das Boot 8.4
+ >> Django Unchained 8.4
+ >> Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 8.4
+Movies starting with letter: G
+ >> Green Book 8.3
+Movies starting with letter: I
+ >> Inception 8.8
+Movies starting with letter: M
+ >> Modern Times 8.5
+Movies starting with letter: P
+ >> Pulp Fiction 8.9
+Movies starting with letter: T
+ >> Terminator 2: Judgment Day 8.5
+ >> The Green Mile 8.5
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Enter a movie title:
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Movies starting with letter: D
+ >> Das Boot 8.4
+ >> Django Unchained 8.4
+ >> Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 8.4
+Movies starting with letter: G
+ >> Green Book 8.3
+Movies starting with letter: I
+ >> Inception 8.8
+Movies starting with letter: M
+ >> Modern Times 8.5
+Movies starting with letter: P
+ >> Pulp Fiction 8.9
+Movies starting with letter: T
+ >> Terminator 2: Judgment Day 8.5
+ >> The Green Mile 8.5
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+give the titleChar of the node:
+Pre-oder traversal after rotation:
+D C G M I T P 
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Goodbye!

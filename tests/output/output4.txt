@@ -1,0 +1,86 @@
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Movies starting with letter: 3
+ >> 3 Idiots 8.4
+Movies starting with letter: A
+ >> Aliens 8.4
+Movies starting with letter: D
+ >> Django Unchained 8.4
+Movies starting with letter: G
+ >> Green Book 8.3
+Movies starting with letter: I
+ >> Inception 8.8
+ >> Interstellar 8.6
+Movies starting with letter: M
+ >> Modern Times 8.5
+Movies starting with letter: O
+ >> One Flew Over the Cuckoo's Nest 8.7
+Movies starting with letter: P
+ >> Psycho 8.5
+ >> Pulp Fiction 8.9
+Movies starting with letter: S
+ >> Seven Samurai 8.7
+Movies starting with letter: T
+ >> The Green Mile 8.5
+ >> The Lion King 8.5
+ >> Toy Story 8.3
+Movies starting with letter: W
+ >> Whiplash 8.5
+ >> Witness for the Prosecution 8.4
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+give the titleChar of the node:
+Pre-oder traversal after rotation:
+W A 3 O I G D M T S P 
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Movies starting with letter: 3
+ >> 3 Idiots 8.4
+Movies starting with letter: A
+ >> Aliens 8.4
+Movies starting with letter: D
+ >> Django Unchained 8.4
+Movies starting with letter: G
+ >> Green Book 8.3
+Movies starting with letter: I
+ >> Inception 8.8
+ >> Interstellar 8.6
+Movies starting with letter: M
+ >> Modern Times 8.5
+Movies starting with letter: O
+ >> One Flew Over the Cuckoo's Nest 8.7
+Movies starting with letter: P
+ >> Psycho 8.5
+ >> Pulp Fiction 8.9
+Movies starting with letter: S
+ >> Seven Samurai 8.7
+Movies starting with letter: T
+ >> The Green Mile 8.5
+ >> The Lion King 8.5
+ >> Toy Story 8.3
+Movies starting with letter: W
+ >> Whiplash 8.5
+ >> Witness for the Prosecution 8.4
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+give the titleChar of the node:
+Pre-oder traversal after rotation:
+W A 3 I G D O M T S P 
+======Main Menu======
+1. Delete a movie
+2. Show the inventory
+3. Right rotate the tree
+4. Quit
+Goodbye!
